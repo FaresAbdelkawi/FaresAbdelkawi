@@ -7,6 +7,7 @@ and applied machine learning projects.
 
 ### 🧰 Tech Stack
 - Python
+- C 
 - Machine Learning
 - Deep Learning
 - Computer Vision
