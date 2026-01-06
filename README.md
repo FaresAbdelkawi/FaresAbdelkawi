@@ -16,9 +16,7 @@ and applied machine learning projects.
 - Git & GitHub
 
 ### 📌 Projects
--[Customer value Prediction](https://github.com/FaresAbdelkawi/Customer-Value-Prediction-Segmentation)
-- Stereo Vision Depth Estimation using YOLO
-- Object Detection Systems
-- Data Analysis Projects
+- [Customer value Prediction](https://github.com/FaresAbdelkawi/Customer-Value-Prediction-Segmentation)
+- [Deep Learning Optimization](https://github.com/FaresAbdelkawi/Fashion-MNIST-Deep-Learning-Analysis)
 
 🔗 LinkedIn: www.linkedin.com/in/fares-abdelkawi
