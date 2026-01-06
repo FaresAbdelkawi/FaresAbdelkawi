@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**FaresAbdelkawi/FaresAbdelkawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Computer Vision Engineer with experience in
+data analysis, object detection, and real-world projects.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- YOLO
+- Pandas, NumPy
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Stereo Vision Depth Estimation using YOLO
+- Object Detection Systems
+- Data Analysis Projects
+
+🔗 LinkedIn: www.linkedin.com/in/fares-abdelkawi
