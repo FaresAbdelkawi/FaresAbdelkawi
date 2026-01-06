@@ -1,6 +1,9 @@
 
-Machine Learning & Computer Vision Engineer with experience in
-data analysis, object detection, and real-world projects.
+## Machine Learning & Computer Vision Engineer
+
+Focused on building data-driven and vision-based systems,
+with hands-on experience in object detection, depth estimation,
+and applied machine learning projects.
 
 ### 🧰 Tech Stack
 - Python
